@@ -7,3 +7,14 @@
 html{
  font-family: ubuntu;
 }
+body {
+    background:#333;
+
+}
+.main {
+    text-align:center;
+    background:white;
+    color:white;
+    
+
+}
